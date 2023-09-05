@@ -1,3 +1,0 @@
-[submodule "submodule_dir"]
-    path = submodule_dir
-    url = https://github.com/haruItG/trading_bot.git
